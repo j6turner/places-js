@@ -1,9 +1,9 @@
 Places Travelled
 ============
 
-This JavaScript web app allows user to input travel data, which is then displayed in a clickable list.
+This JavaScript Web app allows user to input travel data, which is then displayed in a clickable list.
 
-Features include [JQuery](http://jquery.com/),
+Features include [jQuery](http://jquery.com/),
 [Mocha](http://mochajs.org/), [Chai](http://chaijs.com/),
 and [Bootstrap](http://http://getbootstrap.com/).
 
@@ -11,10 +11,10 @@ and [Bootstrap](http://http://getbootstrap.com/).
 Usage
 -----
 
-Open the `places.html` file in a web browser.
+Open the `places.html` file in a Web browser.
 
 
-Author
+Authors
 -----
 
 ARSI & J. TURNER
